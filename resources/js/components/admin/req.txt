@@ -1,0 +1,45 @@
+      options: [
+        {
+          title: "General Education Qualification",
+          text:
+            "Educational Qualification (Minimum of Five (5) credits in O’Levels, GCE, NECO ; (Maths & English inclusive of the five credits), OND, HND, BSc, BA, MBA and MSc)",
+          type: "file"
+        },
+        {
+          title: "Engineering Education Qualification",
+          text:
+            "Educational qualification (Minimum of HND or BTech in Engineering)",
+          type: "file"
+        },
+        {
+          title: "Valid Identification",
+          text: "Valid means of identification",
+          type: "file"
+        },
+        {
+          title: "Birth Certificate or Age Declaration",
+          text: "Age declaration or Birth Certificate",
+          type: "file"
+        },
+        {
+          title: "Work Experience",
+          text:
+            "Minimum of two years work experience in the Nigerian Aviation Industry as Engineers",
+          type: "text"
+        },
+        {
+          title: "Entry Level Test",
+          text: "Entry level test  for O’levels students",
+          type: "file"
+        },
+        {
+          title: "Basic Airfares Certificate from LABS",
+          text: "Basic Airfares & Ticketing Certificate from LABS",
+          type: "file"
+        },
+        {
+          title: "IATA Diploma",
+          text: "IATA Foundation Diploma /IATA Consultant Certificate ",
+          type: "file"
+        }
+      ],

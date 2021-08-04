@@ -1,0 +1,42 @@
+<div class="info-tabs col-sm-12 col-md-12">
+
+                                        <div class="tabable">
+                                                <ul id="myTab" class="nav nav-tabs">
+                                                  <li><div href="#course" data-toggle="tab" class="active"><span>Courses<span style="display:block">Your active courses</span></span></div></li>
+                                                  <li><div href="#profile" data-toggle="tab"><span>Downloads<span style="display:block">for courses</span></span></div></li>
+                                                  <li><div href="#messages" data-toggle="tab"><span>Announcement<span style="display:block">from school</span></span></div></li>
+                                                </ul>
+                                                <div class="tab-content">
+                                                  <div class="tab-pane fade in active show" id="course">
+                                                      <ul>
+                                                        <li>
+                                                            <div class="row">
+                                                                <div class="col-xl-6  col-md-12 col-sm-12">
+                                                                    <img src="{{asset('img/atwork.png')}}"/>
+                                                                        <span > Intro to airways </span>
+                                                                </div>
+                                                                <div class="col-xl-6  col-md-12 col-sm-12">
+                                                                        <div class="progress" style="margin-top:20px;">
+                                                                                <div class="progress-bar bg-info" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">50%</div>
+                                                                              </div>
+                                                                </div>
+                                                            </div>
+                                                        </li>
+                                                        <li>
+                                                                <div class="row">
+                                                                        <div class="col-xl-6  col-md-12 col-sm-12"><img src="{{asset('img/atwork.png')}}"/></div>
+                                                                        <div class="col-xl-6  col-md-12 col-sm-12">
+                                                                                <div class="progress" style="margin-top:20px;">
+                                                                                        <div class="progress-bar bg-warning" role="progressbar" style="width: 20%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">20%</div>
+                                                                                      </div>
+                                                                        </div>
+                                                                    </div>
+                                                        </li>
+                                                      </ul>
+                                                  </div>
+                                                  <div class="tab-pane fade in " id="profile">PROFILE ... Raw denim you probably haven't heard of them jean shorts Austin. Nesciunt tofu stumptown aliqua, retro synth master cleanse. Mustache cliche tempor, williamsburg carles vegan helvetica. Reprehenderit butcher retro keffiyeh dreamcatcher synth. Cosby sweater eu banh mi, qui irure terry richardson ex squid. Aliquip placeat salvia cillum iphone. Seitan aliquip quis cardigan american apparel, butcher voluptate nisi qui.</div>
+                                                  <div class="tab-pane fade in " id="messages">MESSAGES ... Aliquip placeat salvia cillum iphone. </div>
+                                                </div>
+                                            </div>
+
+                                </div>
